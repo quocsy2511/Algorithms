@@ -26,6 +26,4 @@ const arrayParams = [10, 1, 4, 5, 2];
 
 MergeSort(arrayParams);
 console.log("🚀 ~ MergeSort ~ MergeSort:", MergeSort(arrayParams));
-
-// Big-0 = O((n^2)) độ phức tạp của hàm này
-// Avg  Big-0 = O(nlog(n))
+// Big-0 = O(nlog(n)) độ phức tạp của hàm này
